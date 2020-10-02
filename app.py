@@ -10,10 +10,10 @@ abv_values=[5.4, 7.1, 9.2, 4.3]
 color1='black'
 color2='red'
 mytitle='Beer Comparison'
-tabtitle='beer!'
+tabtitle='Miches!'
 myheading='Flying Dog Beers'
-label1='IBU'
-label2='ABV'
+label1='LAGUZ1'
+label2='LAGUZ2'
 githublink='https://github.com/austinlasseter/flying-dog-beers'
 sourceurl='https://www.flyingdog.com/beers/'
 
